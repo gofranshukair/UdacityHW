@@ -1,0 +1,57 @@
+body{
+font-family: 'Poiret One', cursive;
+}
+.row {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.header {
+  border-bottom: 2px;
+  border-color:#BCBBBB; 
+  border-bottom-style:solid;
+}
+.row .row {
+  margin-top: 5px;
+  margin-bottom: 0; 
+}
+[class*="col-"] {
+  padding-top: 5px;
+}
+.title{
+  text-transform: uppercase;
+  float: right;
+  font-size: 42px;
+}
+.solgan{
+  text-transform: uppercase;
+  float: right;
+  font-size: 18px;    
+}
+.subtitle{
+  text-transform: uppercase;
+  font-size: 32px;
+  color:#BCBBBB;
+  float:left;
+}
+.worktitle{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 32px;
+  color:#747704;
+}
+.worksolgan{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 12px;  
+  color:#747704;  
+}
+.logoImg{
+  width:90px;
+  height:100px;
+
+}
+.workImg{
+
+  width:80%;
+  height:80%;
+}
